@@ -1,6 +1,6 @@
 ## InterestingJS 
 
-This repo will contain random different interesting websites HTML / JavaScript / CSS source code for further personal analysis. 
+This repo will contain random different interesting websites HTML / JavaScript / CSS and possibly some TypeScript source code for further personal analysis. 
 Probably will have malicious code / phishing sites / scam attempts.
 
 And also legitimate miscellaneous stuff I like to explore such as internal:
